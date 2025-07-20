@@ -9,7 +9,7 @@ We will gradually port it to more embedded platforms, so this page will be updat
 #### Overview
 |                         Model                         | SKU.                                                  |                       Driver support                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------| 
-| <img src="https://github.com/user-attachments/assets/eee65e6d-8fb5-4698-9081-32c951031dab" width="200"> | **PIXPAPER-213-M (Color)** <br />  | ARM MPU platform <br> ARM MCU platform |
+| <img src="https://github.com/user-attachments/assets/f2d21b89-a5e1-46e1-9803-41cd93cfe494" width="200"> | **PIXPAPER-213-M (Mono)** <br />  | ARM MPU platform <br> ARM MCU platform |
 
 
 |                         Specifications                         |                                                   |
