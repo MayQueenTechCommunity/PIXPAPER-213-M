@@ -59,7 +59,7 @@ Step 2. Prepare a 250x122 size picture what you want to showing, then make a ima
         compiling.
 
         Download a sample header file:
-        wget https://raw.githubusercontent.com/open-EPD/user-space-examples/refs/heads/master/2.13/color/spi/png_HEX.h
+        wget https://github.com/open-EPD/user-space-examples/raw/refs/heads/master/2.13/mono/spi/png_HEX.h
 
 
 Step 3. Please download the utility source code in the rootfs of D3-G SBC, then compile it and execute the compiled executable file.
